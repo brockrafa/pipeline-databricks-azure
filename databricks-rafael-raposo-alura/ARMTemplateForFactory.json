@@ -123,7 +123,7 @@
 					"recurrence": {
 						"frequency": "Hour",
 						"interval": 1,
-						"startTime": "2024-01-11T16:43:00",
+						"startTime": "2024-01-11T16:41:00",
 						"timeZone": "E. South America Standard Time"
 					}
 				}
