@@ -1,0 +1,9 @@
+{
+	"name": "databricks-rafael-raposo-alura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f11ed5e2-1bbb-4779-824b-08c1b15ab120",
+		"tenantId": "56ebedd9-6ad6-4334-9e09-4e7889fce527"
+	}
+}
